@@ -1,0 +1,19 @@
+{
+  "invoice-a.png": {
+    "seller":"Cửa hàng Huni Demo","invoice_no":"HD-1401","invoice_date":"2026-11-10",
+    "lines":[{"description":"Bàn phím","quantity":2,"unit_price":200000,"amount":400000},
+             {"description":"Chuột","quantity":1,"unit_price":150000,"amount":150000}],
+    "subtotal":550000,"tax":55000,"total":605000
+  },
+  "invoice-b.png": {
+    "seller":"Văn phòng phẩm Mây Demo","invoice_no":"HD-1402","invoice_date":"2026-11-10",
+    "lines":[{"description":"Sổ tay","quantity":3,"unit_price":40000,"amount":120000},
+             {"description":"Bút mực","quantity":2,"unit_price":15000,"amount":30000}],
+    "subtotal":150000,"tax":15000,"total":165000
+  },
+  "invoice-c.png": {
+    "seller":"Tiệm trà Sen Demo","invoice_no":"HD-1403","invoice_date":"2026-11-10",
+    "lines":[{"description":"Trà sen","quantity":2,"unit_price":75000,"amount":150000}],
+    "subtotal":150000,"tax":0,"total":150000
+  }
+}
